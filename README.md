@@ -31,3 +31,7 @@ gcc client.c -o client
 ```
 ./client
 ```
+
+## Screen Shots
+<img src="screenshots/1.png"/>
+<img src="screenshots/2.png"/>
